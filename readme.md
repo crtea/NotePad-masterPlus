@@ -35,7 +35,7 @@
 ### 3.美化ui效果图
 
 ![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/3.png)
-![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/4png)
+![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/4.png)
 ![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/5.png)
 
 
