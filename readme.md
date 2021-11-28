@@ -29,18 +29,14 @@
   list_options_menu.xml 笔记主页面可选菜单布局
 
 ### 1.时间戳功能的实现效果
-
-​
+![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/1.png)
 ### 2.搜索功能实现效果
-
-
-
-
-
-
+![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/2.png)
 ### 3.美化ui效果图
 
-​
+![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/3.png)
+![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/4png)
+![image](https://github.com/crtea/NotePad-masterPlus/blob/master/picture/5.png)
 
 
 
